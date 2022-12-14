@@ -146,3 +146,4 @@ if a.isdigit() and int(a)>0 and int(a)<=5:
         print("Halvasti")
 else:
     print("Sa valesti vastas")
+    #123
