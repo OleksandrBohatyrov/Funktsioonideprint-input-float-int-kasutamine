@@ -3,7 +3,7 @@ from random import *
 
 
 #1
-##Ras4et diametra okruzhnosti
+##Ras4et diametra okruzhnosti1
 ##Napishite programmu, kotoraya sprosit dlinu okruzhnosti u dereva
 
 #print("Puu läbimõõdu arvutamine")
